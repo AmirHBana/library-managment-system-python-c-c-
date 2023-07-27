@@ -1,13 +1,13 @@
 <body style="background-color: bisque;">
 <pre style="font-style: oblique;">
 library_system_python
- A library system that program with python
-  this program is from the librarian side and use database for store data and use it
-   you can use xampp program or my sql for create database
-    we need the 6 tables that named='member''librarian''lending''code book''book''Affiliates of member'
-     this is a simple program for librarian that the menu of them include
+   A library system that program with python
+      this program is from the librarian side and use database for store data and use it
+         you can use xampp program or my sql for create database
+              we need the 6 tables that named='member''librarian''lending''code book''book''Affiliates of member'
+                    this is a simple program for librarian that the menu of them include
 </pre>
-<pre style="color: cyan;>       
+<p style="color: cyan;>       
       1. register member
       2. add book
       3. lending book to the member
@@ -19,5 +19,5 @@ library_system_python
       9. UPdates member
       10. Updated book
       11. Exit
-</pre>
+</p>
 </body>
