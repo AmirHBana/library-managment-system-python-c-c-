@@ -6,11 +6,7 @@ library_system_python
         you can use xampp program or my sql for create database
            we need the 6 tables that named='member''librarian''lending''code book''book''Affiliates of member'
               this is a simple program for librarian that the menu of them includ
-<img src="https://www.themandarin.com.au/wp-content/uploads/2019/08/Abbey-Library-Austria.jpg?w=795" 
-alt="library picture" 
-style="float: left;
-width: 200px;px ;
-height:160px;">                                       1. register member
+                                       1. register member          
                                           2. add book
                                   3. lending book to the member
                               4. return book to the library from member
@@ -21,5 +17,7 @@ height:160px;">                                       1. register member
                                        9. UPdates member
                                        10. Updated book
                                            11. Exit
+<img src="https://www.themandarin.com.au/wp-content/uploads/2019/08/Abbey-Library-Austria.jpg?w=795" 
+alt="library picture">
 </pre> 
 </body>
