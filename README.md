@@ -18,6 +18,6 @@ library_system_python
                                        10. Updated book
                                            11. Exit
 <img src="https://www.skoolbeep.com/blog/wp-content/uploads/2020/12/WHAT-IS-THE-PURPOSE-OF-A-LIBRARY-MANAGEMENT-SYSTEM-min.png" 
-alt="library picture">
+alt="library picture" style="max-width: 100%; max-height: 70%;">
 </pre> 
 </body>
